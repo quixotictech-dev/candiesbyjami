@@ -1,0 +1,54 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dir inst. libs
+lib-cov
+
+# Coverage dir.
+coverage
+
+# nyc test coverage
+.nyc_output
+
+# Grunt int. storage
+.grunt
+
+# node-waf conf.
+.lock-wscript
+
+# Compiled binaries
+build/Release
+
+# dependencies
+node_modules
+jspm_packages
+.pnp
+.pnp.js
+
+# Cache dir.
+.npm
+
+# next.js
+/.next/
+/out/
+
+# misc
+.DS_Store
+.env
+
+# REPL history
+.node_repl_history
+.next
+# debug
+yarn-debug.log*
+yarn-error.log*
+

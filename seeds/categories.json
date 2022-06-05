@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cat_8XxzoBOOZ5PQAZ",
+    "slug": "not-just-caramel",
+    "name": "(not) Just Caramel",
+    "assets": [
+      {
+        "id": "ast_4OANwREPnblvYL",
+        "url": "https:\/\/cdn.chec.io\/merchants\/28983\/assets\/Ei66hb2pOOLOTJox|1.png",
+        "is_image": true,
+        "filename": "1.png"
+      }
+    ]
+  },
+  {
+    "id": "cat_VKXmwDOOJlrgDA",
+    "slug": "with-chocolate",
+    "name": "Hair Products",
+    "assets": [
+      {
+        "id": "ast_yA6nldxM1zlEWb",
+        "url": "https:\/\/cdn.chec.io\/merchants\/28983\/assets\/R0zxpiH4mQb4h43j|2.png",
+        "is_image": true,
+        "filename": "2.png"
+      }
+    ]
+  },
+  {
+    "id": "cat_LvJjoPLLaoe0nO",
+    "slug": "apples-etc",
+    "name": "Body Products",
+    "assets":  [
+      {
+        "id": "ast_VPvL5zYP43oAQk",
+        "url": "https:\/\/cdn.chec.io\/merchants\/28983\/assets\/3xkyE7XUJM79g82K|3.png",
+        "is_image": true,
+        "filename": "3.png"
+      }
+    ]
+  }
+]
